@@ -13,7 +13,7 @@ The below questions should be answered _in detail_ regarding your submission!
 
 
 ##### Approximately how many hours did it take you to complete this assignment? #####
-> Acually writing code and not just refferancing the documentaion I would say I spent cose to 12 hours, I should have budgeted more time. I still think I could improve the design if I kept trying.
+> Acually writing code and not just refferancing the documentaion I would say I spent cose to 25-30 hours, I should have budgeted more time. I still think I could improve the design if I kept trying.
 
 
 ##### On a scale of 1 (too easy) to 10 (too challenging), how difficult was this assignment? #####
